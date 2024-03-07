@@ -18,6 +18,18 @@ return [
 
     'name' => env('APP_NAME', 'Laravel'),
 
+
+
+/*
+* Package Service Providers...
+*/
+\Chatify\ChatifyServiceProvider::class,
+
+
+/*
+* Class Aliases
+*/
+'Chatify' => Chatify\Facades\ChatifyMessenger::class,
     /*
     |--------------------------------------------------------------------------
     | Application Environment
