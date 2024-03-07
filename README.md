@@ -11,6 +11,7 @@
 
 Step 1.
         Type in the terminal "php artisan migrate".
+<br>
 Step 2.
         Also type in the terminal "php artisan serve" to run the full system.
 
