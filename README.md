@@ -19,10 +19,14 @@ Step 3.
 ## Steps to run
 
 Step 1.
-        Type in the terminal "php artisan migrate".
+        Run Visual Studio Code and Open the project.
 <br>
 Step 2.
+        Type in the terminal "php artisan migrate".
+<br>
+Step 3.
         Also type in the terminal "php artisan serve" to run the full system.
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<br>
+Step 4.
+        Open the domain provided.
 
